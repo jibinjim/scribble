@@ -2,11 +2,13 @@
 
 These opportunities are curated by volunteers. They are handpicked based on the program experience shared by previous participants. Editors rated these opportunities based on:
 
- 👍 **Good Opportunity.** It will be a good exposure program for you. 👌 **Excellent Opportunity.** It will broaden your horizons.
+ 👍 **Good Opportunity.** It will be a good exposure program for you. 
+
+👌 **Excellent Opportunity.** It will broaden your horizons.
 
 | Editor's Review | Opportunity | Description | Deadline | Tags |
 | :--- | :--- | :--- | :--- | :--- |
-| ![](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/awesome.png) | [GHC](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/GHC/README.md) | Scholarship to female engineering students by AnitaB.org to attend Grace Hopper Conference at Houston | January 16, 2019 \(9:00pm\) to March 6, 2019 \(5:00pm\) | tech, student, girls |
+| ![](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/awesome.png)👌 | [GHC](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/GHC/README.md) | Scholarship to female engineering students by AnitaB.org to attend Grace Hopper Conference at Houston | January 16, 2019 \(9:00pm\) to March 6, 2019 \(5:00pm\) | tech, student, girls |
 | ![](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/good.png) | [GHCI](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/GHCI/README.md) | Scholarship to female engineering students by ABI to attend Grace Hopper Conference | June 30, 2018 | tech, student, girls |
 | ![](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/awesome.png) | [Venkat Panchapakesan Memorial Scholarship](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/Venkat_Panchapakesan_Memorial_Scholarship/README.md) | 750$ scholarship by Google to 6 students from India pursuing Computer Science or a closely related field. | July 6, 2018 | tech, student |
 | ![](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/awesome.png) | [WeTech Qualcomm Global Scholarship](https://github.com/jibinjim/scribble/tree/fe810a8a827d1cd0519c8e0348a17c608f8d339d/startups/kerala/schemes-from-ksum/mentorship-connect-programs/WeTech_Qualcomm_Global_Scholarship/README.md) | Scholarship for female engineering students | Jan 2, 2018 | girls, tech, student |
