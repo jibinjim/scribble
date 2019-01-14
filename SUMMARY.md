@@ -10,5 +10,6 @@
       * [Funding](startups/kerala/schemes-from-ksum/funding.md)
       * [Marketing support](startups/kerala/schemes-from-ksum/marketing-support.md)
       * [Knowledge/ Skill enhancement](startups/kerala/schemes-from-ksum/knowledge-skill-enhancement.md)
-      * [Mentorship / Connect Programs](startups/kerala/schemes-from-ksum/mentorship-connect-programs.md)
+      * [Mentorship / Connect Programs](startups/kerala/schemes-from-ksum/mentorship-connect-programs/README.md)
+        * [Wiki](startups/kerala/schemes-from-ksum/mentorship-connect-programs/wiki.md)
 
