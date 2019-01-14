@@ -2,7 +2,7 @@
 These opportunities are curated by volunteers. They are handpicked based on the program experience shared by previous participants. Editors rated these opportunities based on:
 
 <center>
-<img src="good.png" title="fig:" width="50" /> **Good Opportunity.** It will be a good exposure program for you. <img src="awesome.png" title="fig:" width="50" /> **Excellent Opportunity.** It will broaden your horizons.
+👍 **Good Opportunity.** It will be a good exposure program for you. <img src="awesome.png" title="fig:" width="50" /> **Excellent Opportunity.** It will broaden your horizons.
 
 </center>
 | Editor's Review                      | Opportunity                                                                                       | Description                                                                                                                                                                                                       | Deadline                                            | Tags                            |
