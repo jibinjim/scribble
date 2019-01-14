@@ -1,7 +1,3 @@
----
-description: This tutorial will help you set up your git &  github account.
----
-
 # Setting up git & github account
 
 * Head to [github.com](https://www.github.com) and create your account. 
